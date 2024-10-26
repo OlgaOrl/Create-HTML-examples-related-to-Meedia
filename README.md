@@ -1,3 +1,3 @@
-# Create HTML examples related to Meedia
+## Create HTML examples related to Meedia
 html
-deploy link: https://olgaorl.github.io/Create-HTML-examples-related-to-Meedia/
+## Demo link: https://olgaorl.github.io/Create-HTML-examples-related-to-Meedia/
